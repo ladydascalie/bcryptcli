@@ -5,7 +5,7 @@ A little helper to bcrypt encode input from `stdin`
 ## Install
 
 ```
-go get github.com/ladydascalie/bcryptcli
+go install github.com/ladydascalie/bcryptcli@latest
 ```
 
 ## Usage
